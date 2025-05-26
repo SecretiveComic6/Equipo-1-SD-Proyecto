@@ -1,0 +1,4 @@
+com.ejemplo.tareas
+com.ejemplo.tareas.controller
+com.ejemplo.tareas.model
+com.ejemplo.tareas.repository

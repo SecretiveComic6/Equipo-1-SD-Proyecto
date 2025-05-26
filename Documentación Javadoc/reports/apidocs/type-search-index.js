@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.ejemplo.tareas.model","l":"Tarea"},{"p":"com.ejemplo.tareas.controller","l":"TareaController"},{"p":"com.ejemplo.tareas.repository","l":"TareaRepository"},{"p":"com.ejemplo.tareas","l":"TareasApplication"}];updateSearchResults();
